@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "первый",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "title": "добавленный",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "комментарий",
+      "completed": false,
+      "id": 3
+    }
+  ]
+}
